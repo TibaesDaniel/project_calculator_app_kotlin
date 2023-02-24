@@ -9,11 +9,12 @@ O Projeto ainda não está como quero, preciso implementar as funções:
 
 <ol>
 
-<li>[ ] - Porcentagem </li>
-[ ] - Add um ponto assim que completa 4 numeros seguidos sem virgula
-[ ] - Som diferente nas teclas
-[ ] - Tipografia
-[ ] - Refatorar o codigo deixando-o mais simples 
+  <li>[ ] - Porcentagem </li>
+  <li>[ ] - Add um ponto assim que completa 4 numeros seguidos sem virgula</li>
+  <li>[ ] - Som diferente nas teclas</li>
+  <li>[ ] - Tipografia</li>
+  <li>[ ] - Refatorar o codigo deixando-o mais simples </li>
+
 </ol>
 
 
